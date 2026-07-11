@@ -79,7 +79,7 @@ python vol.py -f "memorydump\charlie-2009-12-11.windbgimage" windows.pstree
 
 ### Running Processes
 
-![Running Processes](screenshots/02_process_list.png)
+![Running Processes](02_process_list.png.png)
 
 ---
 
