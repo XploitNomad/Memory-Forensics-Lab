@@ -85,7 +85,7 @@ python vol.py -f "memorydump\charlie-2009-12-11.windbgimage" windows.pstree
 
 ### Process Tree
 
-![Process Tree](screenshots/03_process_tree.png)
+![Process Tree](03_process_tree.png.png)
 
 ---
 
