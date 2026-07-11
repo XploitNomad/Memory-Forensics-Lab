@@ -73,7 +73,7 @@ python vol.py -f "memorydump\charlie-2009-12-11.windbgimage" windows.pstree
 
 ### Windows Information
 
-![Windows Info](screenshots/01_windows_info.png)
+![Windows Info](01_windows_info.png.png)
 
 ---
 
